@@ -1,3 +1,4 @@
 Creating a new branch is quick and simple.
 add merge
---no-ff 
+--no-ff
+Git si a free software... 
